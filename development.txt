@@ -1,0 +1,5 @@
+we want to switch to the dev branching then:-
+    
+        - git add .
+        - git commit -m "message"
+        - git push -u origin dev 
